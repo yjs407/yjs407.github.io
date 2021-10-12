@@ -97,14 +97,14 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Annie
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/yjs407/yjs407.github.io.git
-  branch: main
+  repository: git@github.com:yjs407/yjs407.github.io.git
+  branch: master
 
 user:
   name: yjs407
